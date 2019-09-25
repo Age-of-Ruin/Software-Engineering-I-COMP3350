@@ -2,7 +2,7 @@
 
 ## Purpose
 Schrodingers Library was originally designed as a project for COMP 3350 (Software Engineering 1) at University of Manitoba.
-Our aim is to build a very simple and intuitive online book ordering system. See [VISION.md](https://code.cs.umanitoba.ca/comp3350-winter2019/schrodingers-library/blob/master/documents/VISION.md) to know more
+Our aim is to build a very simple and intuitive online book ordering system. See [VISION.md](https://github.com/Age-of-Ruin/Software-Engineering-I-COMP3350/blob/master/Schrodingers-Library/documents/VISION.md) to know more
 
 ## How To Run the Application
 
@@ -29,9 +29,9 @@ a sorting option on the app. The app allows you to sort the book catalog by pric
 ## Links
  To view the achitecture of how our system(Schrodingers Library),
  
-* Go to [ARCHITECTURE.md](https://code.cs.umanitoba.ca/comp3350-winter2019/schrodingers-library/blob/master/documents/ARCHITECTURE.md) and [ARCHITECTURE.png](https://code.cs.umanitoba.ca/comp3350-winter2019/schrodingers-library/blob/master/documents/ARCHITECTURE.png) to see how our system is organized.
+* Go to [ARCHITECTURE.md](https://github.com/Age-of-Ruin/Software-Engineering-I-COMP3350/blob/master/Schrodingers-Library/documents/ARCHITECTURE.md) and [ARCHITECTURE.png](https://github.com/Age-of-Ruin/Software-Engineering-I-COMP3350/blob/master/Schrodingers-Library/documents/ARCHITECTURE.png) to see how our system is organized.
  
 
  To see our discussions about the project in its early stages and also the project velocity ,
  
-* Go to [RETROSPECTIVE.md](https://code.cs.umanitoba.ca/comp3350-winter2019/schrodingers-library/blob/master/documents/RETROSPECTIVE.md) 
+* Go to [RETROSPECTIVE.md](https://github.com/Age-of-Ruin/Software-Engineering-I-COMP3350/blob/master/Schrodingers-Library/documents/RETROSPECTIVE.md) 
